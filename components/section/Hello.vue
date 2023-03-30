@@ -25,6 +25,6 @@
         </div>
       </div>
     </div>
-    <!-- <div class="bg-[#181824] h-[128px] bg-black z-10 relative mt-[-60px]"></div> -->
+    <div class="bg-[#181824] h-[128px] bg-black z-10 relative mt-[-60px]"></div>
   </div>
 </template>
