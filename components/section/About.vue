@@ -1,12 +1,12 @@
 <template>
-  <div class="bg-[#282162]">
+  <div id="about" class="bg-[#282162]">
     <div class="max-w-[1073px] block mx-auto py-[55px] text-white px-4 md:px-12 xl:px-0">
       <div class="flex flex-col">
         <p class="text-3xl text-[#7562E0] leading-12 font-semibold">
           About me:
         </p>
         <span class="text-white leading-12 text-lg mt-2">
-          Hi, my name is Jayjay Dinero Dinero, i am a Fullstack web developer,
+          Hi, my name is Gal Annonim, i am a Fullstack web developer,
           UI designer, and Mobile developer. I jhave honed my skills in Web
           Development and advance i have core understanding of advance UI design
           principles. Here are the major skiills i have.

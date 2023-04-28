@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-[#282162] pb-[80px]">
+  <div id="offer" class="bg-[#282162] pb-[80px]">
     <div class="max-w-[1073px] block mx-auto px-4 md:px-12 xl:px-0">
       <div class="flex flex-col">
         <p class="text-3xl text-[#7562E0] leading-12 font-semibold">
